@@ -1,10 +1,10 @@
-# ChipWatch
+# Supply Signal
 
 **The AI supply chain. In 60 seconds.**
 
-ChipWatch is a voice-first briefing concept that helps busy teams understand which critical AI suppliers need their attention, what changed, and which alternatives to investigate. Listen to the top risks over your morning coffee, then dig into the details that matter.
+Supply Signal is a voice-first briefing concept that helps busy teams understand which critical AI suppliers need their attention, what changed, and which alternatives to investigate. Listen to the top risks over your morning coffee, then dig into the details that matter.
 
-Built with Lovable for a hackathon. **ChipWatch is the working product name; the current demo is branded Supply Signal.**
+Built with Lovable for a hackathon.
 
 ## The problem
 
